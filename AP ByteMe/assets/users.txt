@@ -1,0 +1,4 @@
+101,student1,pass123,student,false
+102,staff1,admin123,staff,true
+103,Medha,1234,student,false
+104,Sneha,9876,student,false
